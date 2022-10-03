@@ -1,2 +1,2 @@
 # Portfolio
-Desenvolvi esse projeto guiado por desafio da platafroma da Rocketseat
+Desenvolvi esse projeto guiado por desafio da plataforma da Rocketseat
